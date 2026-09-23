@@ -1,5 +1,7 @@
 # EDITH Fit — Engineering Showcase
 
+[**English**](README.md) · [Italiano](README.it.md)
+
 **Android · wearable data · synchronization · real-device validation**
 
 EDITH Fit is a personal Android health, wearable and workout-data platform developed within **EDITH Dev Studio**.
