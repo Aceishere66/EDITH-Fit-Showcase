@@ -146,4 +146,4 @@ That makes deduplication, debugging and later analysis safer.
 ## Links
 
 - Engineering portfolio: https://github.com/Aceishere66/engineering-portfolio
-- EDITH Dev Studio engineering page: https://edithdevstudio.com/engineering
+- EDITH Dev Studio engineering page: https://edithdevstudio.com/engineering/
